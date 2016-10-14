@@ -1,2 +1,6 @@
 # hello-world
-the first progect
+the first 
+
+repository.
+
+and adds few words.
